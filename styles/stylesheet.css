@@ -5,10 +5,19 @@
 }
 .heroImage h1 {
     margin-bottom: 0px;
-    font-size: 50px;
+    font-size: 10vw;
     font-family: 'Encode Sans Expanded', sans-serif;
 }
 .heroImage p {
     margin-top: 5px;
-    font-size: 17px;
+    font-size: 3vw;
+}
+
+@media (min-width: 768px) {
+    .heroImage h1 {
+        font-size: 115px;
+    }
+    .heroImage p {
+        font-size: 20px;
+    }
 }
