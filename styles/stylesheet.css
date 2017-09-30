@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.heroImage {
+    text-align: center;
+}
+.heroImage h1 {
+    margin-bottom: 0px;
+    font-size: 50px;
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+.heroImage p {
+    margin-top: 5px;
+    font-size: 17px;
+}
